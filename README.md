@@ -17,6 +17,7 @@
 
 💌 Please contact me on:
 
-LinkedIn: 🔗https://www.linkedin.com/in/mar%C3%ADa-perrone/
-Or Gmail: perronemar148@gmail.com
+- LinkedIn: 🔗https://www.linkedin.com/in/mar%C3%ADa-perrone/
+
+- Or Gmail: perronemar148@gmail.com
 
