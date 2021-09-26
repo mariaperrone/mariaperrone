@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 🙋
 
-<!--
-**mariaperrone/mariaperrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎈 I'm 19 years old
+- 💻 I'm currently studying IT at UTEC
+- 🤓 I’m learning React and Python on 4Geeks Academy
+- 🧑‍🤝‍🧑 I'm looking to collaborate with others
+- ⚡ Fun fact: I also teach English!
 
-Here are some ideas to get you started:
+🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- ReactJS
+- Java
+
+💌 Please contact me on:
+
+LinkedIn: 🔗https://www.linkedin.com/in/mar%C3%ADa-perrone/
+Or Gmail: perronemar148@gmail.com
+
