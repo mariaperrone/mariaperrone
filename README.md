@@ -2,7 +2,7 @@
 
 - 🎈 I'm 19 years old
 - 💻 I'm currently studying IT at UTEC
-- 🤓 I’m learning React and Python on 4Geeks Academy
+- 🤓 I’m learning React and Python to be a Full-Stack Developer on 4Geeks Academy
 - 🧑‍🤝‍🧑 I'm looking to collaborate with others
 - ⚡ Fun fact: I also teach English!
 
