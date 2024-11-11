@@ -1,23 +1,25 @@
 ### Hi there 🙋
 
-- 🎈 I'm 19 years old
-- 💻 I'm currently studying IT at UTEC
-- 🤓 I’m learning React and Python to be a Full-Stack Developer on 4Geeks Academy
-- 🧑‍🤝‍🧑 I'm looking to collaborate with others
-- ⚡ Fun fact: I also teach English!
+- 🎈 22 years old
+- 💻 Studying IT at UTEC
+- 🤓 Full-Stack Developer on React and Python
+- ☁️ Currently working on Salesforce
 
 🚀 Skills:
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
 - ReactJS
+- Bootstrap
+- LWC
+- Visualforce
+- Python
 - Java
+- Apex
+- Salesforce Flows
+- Omnistudio
 
 💌 Please contact me on:
 
-- LinkedIn: 🔗https://www.linkedin.com/in/mar%C3%ADa-perrone/
+- LinkedIn: 🔗https://www.linkedin.com/in/maría-perrone/
 
 - Or Gmail: perronemar148@gmail.com
 
